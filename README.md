@@ -16,15 +16,15 @@ footer: Copyright © 2019-present Luo
 <div class="features">
     <div class="feature">
         <h2>基础知识</h2> 
-        <p>小程序 | npm | git | javascript | node | webpack | gulp | vue | react 基础学习记录</p>
+        <p>java | mysql |ssm | ssh </p>
     </div>
     <div class="feature">
         <h2>源码学习</h2> 
-        <p>vue | react | webapck 框架及相关技术的源码学习及参考实现</p>
+        <p>-----</p>
     </div>
     <div class="feature">
         <h2>其它</h2> 
-        <p>css布局技巧 | 兼容性问题 | 开发经验</p>
+        <p>开发经验</p>
     </div>
     
 </div>
